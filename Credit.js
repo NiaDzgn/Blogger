@@ -1,1 +1,17 @@
-$(document).ready((function(){setInterval((function(){$(&quot;#mycontent:visible&quot;).length||(window.location.href=&quot;http://malik-profile.blogspot.com/&quot;)}),3e3)})),window.onload=function(){var t=document.getElementById(&quot;mycontent&quot;);t.setAttribute(&quot;href&quot;,&quot;http://malik-profile.blogspot.com/&quot;),t.setAttribute(&quot;rel&quot;,&quot;dofollow&quot;),t.setAttribute(&quot;title&quot;,&quot;Blogger Template&quot;),t.setAttribute(&quot;style&quot;,&quot;display: inline-block!important; font-size: inherit!important; color:hsl(87,58%,45%) !important; visibility: visible!important;z-index:99!important; opacity: 1!important;position:relative!important;&quot;),t.innerHTML=&quot;Blogger Template&quot;};
+<script src='https://devmijan.com/js/jquery-1.12.3.min.js'/>
+<script src='https://devmijan.com/js/jquery.easing.min.js'/>
+<script src='https://devmijan.com/js/jquery.waypoints.min.js'/>
+<script src='https://devmijan.com/js/jquery.counterup.min.js'/>
+<script src='https://devmijan.com/js/popper.min.js'/>
+<script src='https://devmijan.com/js/bootstrap.min.js'/>
+<script src='https://devmijan.com/js/isotope.pkgd.min.js'/>
+<script src='https://devmijan.com/js/infinite-scroll.min.js'/>
+<script src='https://devmijan.com/js/imagesloaded.pkgd.min.js'/>
+<script src='https://devmijan.com/js/slick.min.js'/>
+<script src='https://devmijan.com/js/contact.js'/>
+<script src='https://devmijan.com/js/validator.js'/>
+<script src='https://devmijan.com/js/wow.min.js'/>
+<script src='https://devmijan.com/js/morphext.min.js'/>
+<script src='https://devmijan.com/js/parallax.min.js'/>
+<script src='https://devmijan.com/js/jquery.magnific-popup.min.js'/>
+<script src='https://devmijan.com/js/custom.js'/>
