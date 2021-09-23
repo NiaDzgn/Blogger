@@ -2,7 +2,6 @@
 /* This template redesign redevelopment by me 
 Name : Malik Ihtsham
 Facebook: fb.com/sham.malik.564
-Number : +923000762460
 Website : malik-profile.blogspot.com
 */
 window.onload = function(){
